@@ -1,14 +1,14 @@
 [
 {
-  "modid": "tutorial",
-  "name": "Generic",
-  "description": "Example placeholder mod.",
-  "version": "1.0",
+  "modid": "Alkemy",
+  "name": "Alkemy",
+  "description": "Amazing brewery mod.",
+  "version": "0.1",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["GAmeDOS"],
-  "credits": "GAmeDOS himself, and himself only",
+  "authorList": ["GAmeDOS", "RedShadow", "beowulfXY"],
+  "credits": "GAmeDOS, RedShadow, and beowuflXY.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
